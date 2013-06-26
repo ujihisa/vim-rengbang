@@ -1,7 +1,7 @@
 vim-rengbang
 ===
 
-This is Vim plugin for sequencial numbering with pattern.
+This is a Vim plugin for numbering with pattern sequencially.
 
 Screenshot
 ---
@@ -10,15 +10,15 @@ Screenshot
 
 ![screenshot1](http://gifzo.net/GcwkxqqqXQ.gif)
 
-### insert sequencial number to head of line
+### insert sequencial numbers to head of line
 
 ![screenshot2](http://gifzo.net/dEheiPGLol.gif)
 
-### insert sequencial number before 'foo'
+### insert sequencial numbers before 'foo'
 
 ![screenshot3](http://gifzo.net/OSgIW6SLMH.gif)
 
-### revise sequencial number when array index is slanted
+### revise sequencial numbers when array index is slanted
 
 ![screenshot4](http://gifzo.net/4lfMjTBr1M.gif)
 
